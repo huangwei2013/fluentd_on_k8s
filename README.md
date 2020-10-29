@@ -1,0 +1,2 @@
+# fluentd_on_k8s
+kubernetes环境中使用efk的方法
